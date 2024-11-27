@@ -3,6 +3,7 @@ import Home from '@/views/Home.vue';
 import TopStory from '@/views/TopStory.vue';
 import LoginForm from "@/views/LoginForm.vue";
 import AdminView from "@/views/AdminView.vue";
+import AdminArticle from "@/views/AdminArticle.vue";
 
 
 const routes = [
@@ -25,6 +26,11 @@ const routes = [
         path: '/AdminView',
         name: 'AdminView',
         component: AdminView,
+    },
+    {
+        path: '/AdminArticle',
+        name: 'AdminArticle',
+        component: AdminArticle,
     }
 ];
 

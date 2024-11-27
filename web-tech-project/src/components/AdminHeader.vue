@@ -34,7 +34,7 @@
           <router-link to="/diet" exact-active-class="current">World</router-link>
         </li>
         <li>
-          <router-link to="/diet" exact-active-class="current">Edit Articles</router-link>
+          <router-link to="/AdminArticle" exact-active-class="current">Edit Articles</router-link>
         </li>
         <li>
           <router-link to="/" exact-active-class="current">Log Out</router-link>
