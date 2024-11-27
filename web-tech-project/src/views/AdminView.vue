@@ -1,9 +1,9 @@
 <template>
   <div class="home">
-    <Header />
+    <AdminHeader />
     <main>
       <Sidebar />
-      <MainStory />
+      <MainContent />
     </main>
 
     <Footer />
@@ -11,16 +11,16 @@
 </template>
 
 <script>
-import Header from '@/components/Header.vue';
-import MainStory from '@/components/MainStory.vue';
+import AdminHeader from '@/components/AdminHeader.vue';
+import MainContent from '@/components/MainContent.vue';
 import Sidebar from '@/components/Sidebar.vue';
 import Footer from '@/components/Footer.vue';
 
 export default {
   name: 'Home',
   components: {
-    "Header": Header,
-    "MainStory": MainStory,
+    "AdminHeader": AdminHeader,
+    "MainContent": MainContent,
     "Sidebar": Sidebar,
     "Footer": Footer,
   },

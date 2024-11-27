@@ -4,32 +4,35 @@
     <router-link to="/MainStory.vue" class="mainstory">
       <img src="@/assets/article1.png" alt="top story" />
     </router-link>
-    <p>As fitness expert Amanda Russell said:</p>
-    <blockquote>Fitness is about so much more than exercise. It’s a catalyst for positive change, and it affects every aspect of your life.</blockquote>
-    <h2>What we offer</h2>
+    <h2>Top Story</h2>
     <h3></h3>
     <p>
-      Tired of being tired? Strength training can help you manage or lose weight and
-      increase your metabolism to help you burn more calories. It can also increase bone
-      density and reduce the risk of osteoporosis.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Nulla efficitur, libero in pretium sagittis, lectus justo cursus justo, ac auctor nulla nisl nec odio.
+      Pellentesque gravida cursus magna, sit amet condimentum mi feugiat in.
+      Nulla vulputate efficitur arcu, vel faucibus diam tristique quis.
     </p>
     <h3></h3>
     <p>
-      Want to lose weight? Cardiovascular exercise burns calories and improves overall
-      health. It can reduce belly fat, promote brain growth, prevent stress, and help you
-      focus.
+      Quisque id vestibulum mauris, vitae tincidunt eros.
+      Nunc sit amet dui id enim sagittis auctor. Aliquam sagittis orci et nunc euismod placerat.
+      Phasellus quis augue purus. Nulla facilisi. Nunc diam est, sagittis ut arcu eu, scelerisque lobortis tellus.
+      Sed nec placerat elit.
     </p>
     <h3></h3>
     <p>
-      Stressed out fortnite? Stress can weaken the immune system and cause high blood pressure,
-      fatigue, depression, anxiety, and even heart disease. Learn ways to manage and reduce
-      stress.
+      Aliquam sed eros ultrices, porta ante sit amet, condimentum elit.
+      Sed congue congue fringilla.
+      Cras scelerisque, tortor vel commodo posuere, diam nisl auctor eros, a eleifend libero ante a metus.
+      Maecenas sed orci purus.
+      Aliquam lectus ex, auctor sit amet enim in, iaculis faucibus quam.
     </p>
     <h3></h3>
     <p>
-      Are you really what you eat? Lose weight, gain weight, or just feel great! Maintaining
-      a healthy diet is probably the most important thing you can do to promote overall
-      health.
+      Mauris lobortis, turpis sit amet tristique convallis, enim odio elementum massa, id consectetur orci mi quis lorem.
+      Quisque nulla dui, tincidunt id ligula in, porta luctus felis. Donec non luctus sem.
+      Vivamus tincidunt eros at metus rhoncus molestie.
+      Nam id mi id turpis auctor lobortis.
     </p>
   </section>
 </template>

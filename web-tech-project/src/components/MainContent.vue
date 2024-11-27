@@ -4,7 +4,7 @@
     <router-link to="/MainStory" class="mainstory">
       <img src="@/assets/article1.png" alt="top story" />
     </router-link>
-    <p>As fitness expert Amanda Russell said:</p>
+  <!--  <p>As fitness expert Amanda Russell said:</p>
     <blockquote>Fitness is about so much more than exercise. It’s a catalyst for positive change, and it affects every aspect of your life.</blockquote>
     <h2>What we offer</h2>
     <h3></h3>
@@ -30,7 +30,7 @@
       Are you really what you eat? Lose weight, gain weight, or just feel great! Maintaining
       a healthy diet is probably the most important thing you can do to promote overall
       health.
-    </p>
+    </p> -->
   </section>
 </template>
 
@@ -70,12 +70,6 @@ section a:visited {
 section a:hover,
 section a:focus {
   color: #38617A;
-}
-blockquote {
-  font-style: italic;
-  margin: 10px 0;
-  padding-left: 15px;
-  border-left: 4px solid steelblue;
 }
 section .mainstory img{
   max-width: 80%;

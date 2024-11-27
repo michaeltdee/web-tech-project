@@ -34,7 +34,10 @@
           <router-link to="/diet" exact-active-class="current">World</router-link>
         </li>
         <li>
-          <router-link to="/Login" exact-active-class="current"><img src="@/assets/account_image.png" alt="Article image" /></router-link>
+          <router-link to="/diet" exact-active-class="current">Edit Articles</router-link>
+        </li>
+        <li>
+          <router-link to="/" exact-active-class="current">Log Out</router-link>
         </li>
       </ul>
     </nav>
@@ -43,7 +46,7 @@
 
 <script>
 export default {
-  name: 'Header',
+  name: 'AdminHeader',
 };
 </script>
 
