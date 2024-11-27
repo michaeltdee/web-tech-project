@@ -3,7 +3,7 @@
   <header>
     <section class="header-content">
       <!-- Logo links to the homepage -->
-      <router-link to="/" class="logo">
+      <router-link to="AdminView" class="logo">
         <img src="@/assets/news_logo.png" alt="Logo" />
       </router-link>
     </section>
@@ -13,7 +13,7 @@
       <ul>
         <!-- Home Link -->
         <li>
-          <router-link to="/" exact-active-class="current">Home</router-link>
+          <router-link to="AdminView" exact-active-class="current">Home</router-link>
         </li>
 
         <!-- Strength Training Link -->
