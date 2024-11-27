@@ -2,10 +2,10 @@
   <aside>
     <h2>More Stories</h2>
     <ul>
-      <li> <router-link to="Home.vue" class="article1">
+      <li> <router-link to="/" class="article1">
         <img src="@/assets/article1.png" alt="Article image" />
       </router-link></li>
-      <li> <router-link to="Home.vue" class="article1">
+      <li> <router-link to="TopStory.vue" class="article1">
         <img src="@/assets/article1.png" alt="Article image" />
       </router-link></li>
       <li> <router-link to="Home.vue" class="article1">

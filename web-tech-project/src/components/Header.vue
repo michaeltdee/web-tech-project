@@ -3,8 +3,8 @@
   <header>
     <section class="header-content">
       <!-- Logo links to the homepage -->
-      <router-link to="home.vue" class="logo">
-        <img src="@/assets/news_logo.png" alt="Shape Up logo" />
+      <router-link to="/" class="logo">
+        <img src="@/assets/news_logo.png" alt="Logo" />
       </router-link>
     </section>
 

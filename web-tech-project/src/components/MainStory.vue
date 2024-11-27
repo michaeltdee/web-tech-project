@@ -1,7 +1,7 @@
 <template>
   <section>
-    <h1>Explore top stories.</h1>
-    <router-link to="/MainStory" class="mainstory">
+    <h1>Article 1 - Lorem Ipsum</h1>
+    <router-link to="/MainStory.vue" class="mainstory">
       <img src="@/assets/article1.png" alt="top story" />
     </router-link>
     <p>As fitness expert Amanda Russell said:</p>
