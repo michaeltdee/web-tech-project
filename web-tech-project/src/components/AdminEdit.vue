@@ -2,20 +2,20 @@
   <section>
     <div class="container">
       <div class="item">
-        <img src="@/assets/article1.png" alt="Image 1">
-        <p>Text for Image 1</p>
+        <img src="@/assets/view-article.png" alt="Image 1">
+        <p>View Articles</p>
       </div>
       <div class="item">
-        <img src="@/assets/article1.png" alt="Image 2">
-        <p>Text for Image 2</p>
+        <img src="@/assets/edit-article.jpg" alt="Image 2">
+        <p>Edit Articles</p>
       </div>
       <div class="item">
-        <img src="@/assets/article1.png" alt="Image 3">
-        <p>Text for Image 3</p>
+        <img src="@/assets/add-article.png" alt="Image 3">
+        <p>Add Articles</p>
       </div>
       <div class="item">
-        <img src="@/assets/article1.png" alt="Image 4">
-        <p>Text for Image 4</p>
+        <img src="@/assets/delete-article.png" alt="Image 4">
+        <p>Delete Articles</p>
       </div>
     </div>
   </section>

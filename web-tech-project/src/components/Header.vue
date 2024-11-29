@@ -18,20 +18,20 @@
 
         <!-- Strength Training Link -->
         <li>
-          <router-link to="/strength" exact-active-class="current">Ireland</router-link>
+          <router-link to="/Ireland" exact-active-class="current">Ireland</router-link>
         </li>
 
         <!-- Cardio Exercises Link -->
         <li>
-          <router-link to="/cardio" exact-active-class="current">Sport</router-link>
+          <router-link to="/Sport" exact-active-class="current">Sport</router-link>
         </li>
 
         <!-- Stress Relief with Submenu -->
         <li class="has-submenu">
-          <router-link to="/stress" exact-active-class="current">Business</router-link>
+          <router-link to="/Business" exact-active-class="current">Business</router-link>
         </li>
         <li>
-          <router-link to="/diet" exact-active-class="current">World</router-link>
+          <router-link to="/World" exact-active-class="current">World</router-link>
         </li>
         <li>
           <router-link to="/Login" exact-active-class="current"><img src="@/assets/account_image.png" alt="Article image" /></router-link>
